@@ -1,10 +1,8 @@
-## Hi there 👋
+Alane Souza
 
-Olá, sou Alane Souza
+Minha trajetória profissional é construída na área de Compras, onde comecei a me aproximar cada vez mais de dados para entender como a análise das informações poderia ajudar a melhorar processos e apoiar decisões.
 
-Minha trajetória profissional é construída na área de Compras, onde comecei a me aproximar cada vez mais de dados ao perceber como a análise das informações poderia ajudar a melhorar processos e apoiar decisões.
-
-Nos últimos meses, passei a aplicar esse conhecimento de forma prática no meu trabalho, desenvolvendo dashboards em Power BI, tratando e estruturando bases com Power Query, criando indicadores e acompanhamentos para Compras, trabalhando com qualidade de dados e buscando automatizar atividades que antes eram realizadas manualmente.
+Nos últimos meses, passei a aplicar esse conhecimento de forma prática no meu trabalho, desenvolvendo dashboards em Power BI, tratando e estruturando bases com Power Query, criando indicadores e acompanhamentos para Compras, trabalhando com qualidade de dados e buscando automatizar atividades que antes eram feitas manualmente.
 
 Essa experiência despertou meu interesse em aprofundar minha atuação em Análise de Dados.
 
@@ -15,22 +13,28 @@ Excel para análise e tratamento de dados
 Power BI
 Power Query
 DAX
-Construção e acompanhamento de KPIs
+Construção e acompanhamento de indicadores
 Tratamento e organização de bases
-Análise de processos
+Análise e melhoria de processos
 Visualização de dados
-O que estou estudando atualmente
-Neste momento, estou avançando nos estudos de:
+Em desenvolvimento
+Atualmente estou aprofundando meus conhecimentos em:
 
 Python para análise de dados
 Pandas e NumPy
 SQL
 Estatística aplicada
-Análise Exploratória de Dados
+Análise exploratória de dados
 Git e GitHub
-A proposta deste GitHub é registrar essa evolução na prática. Conforme avanço nos estudos, os projetos desenvolvidos serão publicados aqui com a documentação do problema analisado, tratamento dos dados, análises realizadas e principais conclusões.
+Projetos e evolução
+Este GitHub faz parte da minha evolução profissional em Dados. Vou utilizar este espaço para registrar projetos, análises e aplicações desenvolvidas durante meus estudos.
+
+Cada projeto publicado será uma forma de documentar não apenas o resultado final, mas também o problema analisado, o tratamento dos dados, as decisões tomadas durante a análise e as conclusões encontradas.
 
 Próximos projetos
-Entre os próximos projetos que pretendo desenvolver estão análises exploratórias com Python, TSE Analytics, Matchmaking de Vagas e projetos próprios voltados para análise de negócio.
-
-Meu objetivo é continuar unindo conhecimento de negócio e tecnologia para desenvolver análises que não apenas apresentem números, mas ajudem a entender problemas, identificar oportunidades e apoiar melhores decisões.
+Análise exploratória de dados com Python
+TSE Analytics
+Matchmaking de Vagas
+Projetos próprios de análise de negócio
+Objetivo
+Continuar desenvolvendo minha atuação em Análise de Dados, unindo a experiência adquirida em Compras com novas competências técnicas para transformar dados em informações úteis para o negócio e apoiar melhores decisões.
